@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#9d20e6"          # Accent color for interactive elements
+backgroundColor="#ffffff"        # Background color for main content
+secondaryBackgroundColor="#dddddd" # Background color for sidebar and widgets
+textColor="#000000"              # Color used for most text
+font="sans serif"                # Accepted values: "sans serif", "serif", "monospace"

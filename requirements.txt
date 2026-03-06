@@ -1,0 +1,15 @@
+streamlit>=1.30
+openai>=1.0.0
+chromadb>=0.4.0
+langchain-chroma
+langchain-ollama
+langchain-community
+langchain-text-splitters
+pypdf
+docx2txt
+langchain-classic
+ollama
+sentence-transformers
+langchain-community
+chromadb
+groq
